@@ -1,0 +1,28 @@
+Name
+fathers name
+mothers name
+mobile
+email
+address
+gender
+passcode
+password
+bday date
+acc date
+account no
+card no
+IFSC code
+cvv
+expiry
+city
+country
+branch
+pan no
+aadhar no
+passport
+voter
+occupation
+organisation
+income
+net worth
+qualification
